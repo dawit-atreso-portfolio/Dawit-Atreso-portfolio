@@ -346,4 +346,7 @@ margin-bottom: 4px;
         .social a i{
             font-size: 18px;
         }
+        .about-p,.stack-projects-blog{
+            width: 95%;
+        }
       }
