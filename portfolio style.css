@@ -400,7 +400,7 @@ margin-bottom: 4px;
       }
      .div-projects{
         width: 100%;
-        height: 150vh;
+        height: 250vh;
         font-family: Arial, Helvetica, sans-serif;
      }
      .div-conto{
@@ -469,4 +469,8 @@ color: black;
      }
      .h1-work a B {
         font-size: 10px;
+     }
+
+     .e-commerce-web-div li i{
+        color: red;
      }
