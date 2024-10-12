@@ -199,7 +199,7 @@ bottom: 2px;
     }
  
     .h1-work a{
-color: rgb(54, 0, 0) ;
+color: rgb(255, 255, 255) ;
     }
     .h1-work a:hover{
         color:yellowgreen;
@@ -208,12 +208,13 @@ color: rgb(54, 0, 0) ;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         margin-left: 5%;
+       
 
     }
     .projects{
         width: 350px;
         height: 230px;
-        background-color: rgb(0, 113, 79);
+        background-color: rgb(110, 110, 110);
         color: white;
         border-radius: 30px;
         font-family: Arial, Helvetica, sans-serif;
@@ -245,12 +246,12 @@ bottom: 16px;
         width: 150px;
         height: 35px;
         text-align: center;
-        color: rgb(248, 252, 255);
+        color: rgb(154, 189, 0);
         font-size: 16px;
         font-weight: 600;
         border-radius: 15px;
         margin-bottom: 20px;
-        border: 3px solid rgb(113, 252, 113);
+       
         }
    
     .typing-demo {
@@ -259,13 +260,22 @@ bottom: 16px;
         white-space: nowrap;
         overflow: hidden;
         border-right: 3px solid;
-       
+        bottom: 30px;
         font-size: 2em;
         position: relative;
         left: 25%;
-        color: rgb(0, 0, 0);
+        color: rgb(36, 1, 1);
+        font-family:Georgia, 'Times New Roman', Times, serif;
       }
-      
+      .typing-demop2 {
+font-size: 15px;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      }
+    .typing-demop1{
+font-size:18px ;
+font-weight: 600;
+    }
       @keyframes typing {
         from {
           width: 0
@@ -300,7 +310,7 @@ margin-bottom: 4px;
         
       }
       .social a i{
-        color: rgb(224, 224, 224);
+        color: rgb(255, 255, 255);
         font-size: 25px;
         margin:0 8px;
       
@@ -344,7 +354,7 @@ margin-bottom: 4px;
         }
       
         .typing-demo{
-            width: 19ch;
+            width: 22ch;
             font-size: 23px;
             position: relative;
             left: 3%;
@@ -411,9 +421,9 @@ background-color: #ffffff;
 position: relative;
 top: 200px;
         font-family: Arial, Helvetica, sans-serif;
-        color: #580000;
+        color: #ffffff;
         text-align: center;
-        
+        background-color: #000000;
      }
      .div-contact h1{
 margin-bottom: 20px;
@@ -443,9 +453,9 @@ margin-bottom: 20px;
      }
      .e-commerce-web-div a button{
         color: #ffffff;
-        width: 100px;
+        width: 150px;
         background-color: #11004a;
-        height: 30px;
+        height: 40px;
         border: none;
         border-radius: 20px;
      }
@@ -473,4 +483,8 @@ color: black;
 
      .e-commerce-web-div li i{
         color: red;
+     }
+     .section-2{
+        background-color: #000000;
+
      }
