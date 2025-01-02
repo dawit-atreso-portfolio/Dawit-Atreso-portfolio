@@ -446,14 +446,12 @@ margin-bottom: 4px;
         }
       
         .typing-demo{
-            width: 22ch;
-            font-size: 21px;
+            width: 95%;
+            font-size: 18px;
             position: relative;
-            left: 3%;
+            left: 2.5%;
             bottom: 30px;
         }
-        .section-1{
-          height: 80vh;}
         .header-home p{
             font-size: 15px;
             margin-bottom: 15px;
