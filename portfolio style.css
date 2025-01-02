@@ -578,7 +578,7 @@ color: black;
         color: red;
      }
      .section-2{
-        background-color: #303a6d;
+      background-color: #002c5b;
         padding-top: 20px;
         padding-bottom: 40px;
 
@@ -846,13 +846,14 @@ header p {
   background-color: #002c5b;
 }
 .projector p{
-font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 15px;
+  font-family:'Times New Roman', Times, serif;
 padding: 5px;
 width: 90%;
 text-align: justify;
 margin-left: 5%;
 color: rgb(231, 231, 231);
-background-color: #3d3b5b;
+background-color: #302d64;
 
 }
 .projector h3{
