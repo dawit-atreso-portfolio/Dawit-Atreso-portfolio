@@ -447,11 +447,13 @@ margin-bottom: 4px;
       
         .typing-demo{
             width: 22ch;
-            font-size: 23px;
+            font-size: 21px;
             position: relative;
             left: 3%;
             bottom: 30px;
         }
+        .section-1{
+          height: 800vh;}
         .header-home p{
             font-size: 15px;
             margin-bottom: 15px;
@@ -487,8 +489,8 @@ margin-bottom: 4px;
       }
       @media (max-width:337px){
         .typing-demo{
-                width: 19ch;
-                font-size: 23px;
+                width: 21ch;
+                font-size: 21px;
         }
         .social a i ,.social{
             font-size: 16px;
