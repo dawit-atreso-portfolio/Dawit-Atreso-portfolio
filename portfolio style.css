@@ -252,6 +252,21 @@ color: rgb(255, 255, 255) ;
         color: #000000;
   
       }
+      .project-column li{
+        
+        font-size: 15px;
+        font-family:'Times New Roman', Times, serif;
+        padding-top: 15px;
+        color: #000000;
+
+      }
+      .project-column h5{
+        color: #610000;
+        text-decoration: underline;
+        padding-top: 15px;
+        font-weight: bolder;
+        
+      }
     .stack-projects-blog2 p {
       color: #000000;
         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
